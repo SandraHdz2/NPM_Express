@@ -1,0 +1,23 @@
+{
+  "name": "npm_express",
+  "version": "1.0.0",
+  "description": "Mi primer server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env FORCE_COLOR=1 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandraHdz2/NPM_Express.git"
+  },
+  "author": "Sandra Azalia Hernandez Trujillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandraHdz2/NPM_Express/issues"
+  },
+  "homepage": "https://github.com/SandraHdz2/NPM_Express#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
